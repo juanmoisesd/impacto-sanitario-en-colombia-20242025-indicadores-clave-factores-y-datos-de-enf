@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://juanmoisesd.github.io/impacto-sanitario-en-colombia-20242025-indicadores-clave-factores-y-datos-de-enf/sitemap.xml
+
+# Scientific indexing encouraged
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
